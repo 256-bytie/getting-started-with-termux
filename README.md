@@ -38,7 +38,8 @@ pkg update
 pkg upgrade
 ```
 • Install basic packages: 
-   • Git (version control): 
+  
+• Git (version control): 
 
 ```bash
 pkg install git
