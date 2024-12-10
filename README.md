@@ -59,7 +59,7 @@ pkg install nano  # or vim
 pkg install curl
 ```
 
-3. Customize Environment
+**Customize Environment**
 
 • Bash configuration: Edit your '.bashrc' file to add aliases or environment variables:
 
@@ -75,7 +75,7 @@ Reload with:
 source ~/.bashrc
 ```
 
-4. Install and Use Development Tools
+**Install and Use Development Tools**
  • Programming: Install languages like Node.js, Python, or PHP.
 
 ```bash
@@ -83,7 +83,7 @@ pkg install nodejs
 pkg install php
 ```
 
-5. Accessing and Managing Files
+**Accessing and Managing Files**
  • Storage permissions: Allow Termux access to your Android storage:
 
 ```bash
@@ -91,7 +91,7 @@ termux-setup-storage
 ```
 This creates a storage directory in Termux, linked to shared storage folders.
 
-6. Learn and Practice Linux Commands
+**Learn and Practice Linux Commands**
 Start with basics like ls, cd, cp, mv, mkdir, rm, etc.
 
 Let me know if you'd like help setting up anything specific!
