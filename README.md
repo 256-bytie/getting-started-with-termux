@@ -37,7 +37,7 @@ After opening Termux, familiarize yourself with a few basic commands:
 pkg update
 pkg upgrade
 ```
-• Install basic packages: 
+**Install basic packages:**
   
 • Git (version control): 
 
